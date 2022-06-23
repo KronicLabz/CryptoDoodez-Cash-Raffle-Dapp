@@ -1,0 +1,16 @@
+{
+  "CONTRACT_ADDRESS": "0x92dC67BbBDfBAc0482dfeD9636657caf4587D56F",
+  "SCAN_LINK": "https://phoenixplore.com/token/0x92dC67BbBDfBAc0482dfeD9636657caf4587D56F/token-transfers",
+  "NETWORK": {
+    "NAME": "Phoenix",
+    "SYMBOL": "PHX",
+    "ID": 13381
+  },
+  "NFT_NAME": "CryptoDoodez Cash Raffle",
+  "SYMBOL": "CDC",
+  "MAX_SUPPLY": 500,
+  "WEI_COST": 750000000000000000,
+  "DISPLAY_COST": 75.00,
+  "GAS_LIMIT": 285000,
+  "SHOW_BACKGROUND": true
+}
